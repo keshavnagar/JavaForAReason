@@ -1,0 +1,9 @@
+1. Variables are container for storing data values.
+2. IN java there are many variables 
+
+2.1 String - stores text , values are surronding by double quotes.
+2.2 int - stores integer (whoe numbers) , wihout decimal such as 123 or -123.
+2.3 float - stores floating point numbers , with decimals , such as 32.42 or -90.43
+2.4 char - stores single char , such as 'a' or 'B', surronding by single quotes
+2.5 boolean - stores value true or false
+

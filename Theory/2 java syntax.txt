@@ -1,0 +1,25 @@
+its a eg of java program and we discuss this program in below the program : 
+
+
+public class Main {
+  public static void main(String[] args) {
+    System.out.println("Hello World");
+  }
+}
+
+1. every line of code in must be in the java class , that name is Main and the first letter must be uppercase.
+
+2. java is case sensitive for eg:  eg and Eg are different.
+
+3. the name of java class is must match the file name.
+
+2 The main method 
+
+2.1 main() is required. 
+2.2 public static void main(String [] args)
+
+3 System.out.println()
+
+3.1 println() method is used to print the content 
+3.2 System is a built in java class , that contains useful members like out use for output and println use for print on the screen
+3.3 

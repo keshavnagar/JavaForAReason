@@ -1,0 +1,24 @@
+To create a variable , you must specify the type and assign it a value:
+
+syntax : type variableName = value;
+
+eg : String name = "rough";
+System.out.println(name);
+
+eg : int num = 89;
+System.out.println(num);
+
+we also first create the value 
+
+eg : int num;
+
+and then assign the value
+
+eg : num = 90;
+
+if you change the value of a variable num 
+
+eg : num = 90;
+
+System.out.println(num);
+

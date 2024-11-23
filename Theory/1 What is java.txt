@@ -1,0 +1,9 @@
+If you run any java program in your machine 
+
+first compile it : 
+
+javac Hello1.java
+
+and then run it : 
+
+java Hello1
