@@ -12,3 +12,8 @@ You can simply write:
 
 int x = 5, y = 6, z = 50;
 System.out.println(x + y + z);
+
+so wee apply this in our p file 6. 
+
+
+
