@@ -21,6 +21,8 @@ public class JavaPrintVariable5 {
         int x = 89;
         int y = 90;
         System.out.println(x + y);
+
+        
     }
 
 }
