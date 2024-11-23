@@ -1,0 +1,11 @@
+Display variables 
+
+1. the println() method is used to Display variable.
+
+2. to cmbine both text and variable , use the + character.
+
+3. eg : in p file 5 ;
+
+4. we can also combine two variables like firstname and last name = full name ;
+
+5. so it is also include in p file 5;
