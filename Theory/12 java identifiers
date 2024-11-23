@@ -1,0 +1,25 @@
+alll java variables must be identified with unique names.
+these unique names are called identifiers.
+identifiers can be short names like x or y or real world names age and sum.
+
+
+eg : 
+
+// good 
+
+int minutesPerHour = 60;
+
+// ok , but m is what ?
+
+int m = 60;
+
+general rules to naming variables : 
+
+1.names can contain letters , digits , underscores and dollar signs.
+2.name must begin with a letter.
+3.names should start with lowercase letter and can't contain whitespace
+4.names can also case sensitive 
+5.reserved words like java keywords int or boolesan can't be used as names
+
+
+
