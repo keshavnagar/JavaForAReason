@@ -1,0 +1,83 @@
+Java Numbers
+---
+
+**1. Primitive Number Types**  
+1.1. Integer Types: byte, short, int, and long.  
+1.2. Floating Point Types: float and double.  
+
+---
+
+**2. Integer Types**  
+
+2.1. **Byte**  
+- Range: -128 to 127.  
+- Use `byte` to save memory when certain the value will be within this range.  
+
+**Example:**  
+```java
+byte myNum = 100;
+System.out.println(myNum);
+```
+
+2.2. **Short**  
+- Range: -32768 to 32767.  
+
+**Example:**  
+```java
+short myNum = 9000;
+System.out.println(myNum);
+```
+
+2.3. **Int**  
+- Range: -2147483648 to 2147483647.  
+- Preferred type for numeric values.  
+
+**Example:**  
+```java
+int myNum = 908987;
+System.out.println(myNum);
+```
+
+2.4. **Long**  
+- Range: -9223372036854775808 to 9223372036854775807.  
+- Use `long` when `int` is not large enough.  
+- End the value with an "L".  
+
+**Example:**  
+```java
+long myNum = 895293087L;
+System.out.println(myNum);
+```
+
+---
+
+**3. Floating Point Types**  
+
+3.1. **When to Use**  
+- Use for numbers with decimals (e.g., 9.99, 3.14515).  
+- `float` requires an "f" suffix, and `double` requires a "d" suffix.
+
+**Examples:**  
+```java
+float myNum = 5.75f;
+System.out.println(myNum);
+```
+```java
+double myNum = 89.90d;
+System.out.println(myNum);
+```
+
+3.2. **Float vs Double**  
+- **Float Precision:** 6–7 decimal digits.  
+- **Double Precision:** About 16 decimal digits.  
+- Use `double` for most calculations as it is safer.
+
+3.3. **Scientific Numbers**  
+- Represent numbers in scientific notation using an "e" (power of 10).  
+
+**Examples:**  
+```java
+float f1 = 43e4f;
+double d1 = 12E6d;
+System.out.println(f1);
+System.out.println(d1);

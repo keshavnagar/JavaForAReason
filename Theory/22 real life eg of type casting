@@ -1,0 +1,5 @@
+create a program to calculate the percentage of a user's score in relation to the maximum score in a game.
+
+We use type casting to make sure that the result is a floating-point value, rather than an integer:
+
+eg : in p fiile that name is RLETC.java
