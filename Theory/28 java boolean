@@ -1,0 +1,21 @@
+java boolean
+
+Boolean Expression
+A Boolean expression returns a boolean value: true or false.
+
+eg : Bool.java
+
+In the examples below, we use the equal to (==) operator to evaluate an expression:
+
+eg : in Bool.java
+
+Real Life Example
+Let's think of a "real life example" where we need to find out if a person is old enough to vote.
+
+eg : in RLEB.java
+
+
+we also implement this program by if condition 
+
+eg : in RLEB.java
+
